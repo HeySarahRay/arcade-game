@@ -2,7 +2,7 @@
 
 Help our brave hero navigate the shark infested waters safely. You may move in any direction you like, just don't get in bitten or you'll have to start over again.
 
-# Play
+## Play
 To help our hero ride the good time waves, simply download/clone the repository and open the index.html file in your browser.
 
 ### Keyboard Controls
@@ -13,7 +13,7 @@ You can use either:
 ### Win or Lose
 No worries if you are attacked by sharks, you have infinite chances to try again!
 
-### Good luck!
+### Good luck and have fun!
 
 - - -
 
