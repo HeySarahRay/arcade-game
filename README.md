@@ -3,7 +3,7 @@
 Help our brave hero navigate the shark infested waters safely. You may move in any direction you like, just don't get bitten or you'll have to start over again.
 
 ## Play
-To help our hero ride the good time waves, simply download/clone the repository, open the index.html file in your text editor and play.
+To help our hero ride the good time waves, simply download/clone the repository, open the index.html file through your text editor and play.
 
 ### Keyboard Controls
 You can use either:
