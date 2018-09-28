@@ -1,4 +1,4 @@
-# [Shark Attack!](arcade-game)
+# [Shark Attack!](https://github.com/blissophist/arcade-game)
 
 Help our brave hero navigate the shark infested waters safely. You may move in any direction you like, just don't get bitten or you'll have to start over again.
 
