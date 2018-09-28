@@ -1,9 +1,9 @@
-# [Shark Attack!](https://github.com/blissophist/arcade-game)
+# [Shark Attack!](https://blissophist.github.io/arcade-game/)
 
 Help our brave hero navigate the shark infested waters safely. You may move in any direction you like, just don't get bitten or you'll have to start over again.
 
 ## Play
-To help our hero ride the good time waves, simply download/clone the repository and open the index.html file in your browser.
+To help our hero ride the good time waves, simply download/clone the repository, open the index.html file in your text editor and play.
 
 ### Keyboard Controls
 You can use either:
